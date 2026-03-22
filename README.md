@@ -145,7 +145,7 @@ Method 1: Manual Installation
 
 Download or clone this repository:
 
-git clone https://github.com/your-username/contact-form-plugin.git
+git clone https://github.com/hamza-naeem-dev/WordPress-Contact-Form-Plugin.git
 
 Move the plugin folder to:
 
