@@ -198,7 +198,7 @@ class ContactForm_design
                     wp_reset_postdata();
             }
             else{
-                echo '<p> No Query Found </p>'; 
+                echo '<p> No Query Found! </p>'; 
             }
         return ob_get_clean();
     }
